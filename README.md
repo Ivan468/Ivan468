@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivan468
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JS | Reaact
+- 🌱 I’m currently learning JS / Reaact / jQuery / HTML / CSS / PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  https://ivan468.github.io/cursor-git/cv_petrushchack-ivan/
 
